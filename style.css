@@ -1,0 +1,39 @@
+body{
+    background-color : rgb(232, 230, 230);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+nav {
+    background-color: #8F301C;
+    text-align: center;
+    padding: 15px;
+    
+}
+nav a {
+    text-decoration: none;
+    color: rgb(236, 202, 122);
+    padding: 0px 60px;
+}
+h1 {
+    text-align: center;
+    color: rgba(203, 116, 41, 0.888); 
+}
+main p {
+    float: right;
+
+}
+h2 {
+    text-align: center;
+    text-shadow: 2px 1px #c8831b;
+}
+h4 {
+    text-align: center;
+}
+footer a {
+    color: rgb(187, 108, 22);
+}
